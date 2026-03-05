@@ -7,8 +7,8 @@ from src.cobertura_condicao import acesso
     (15, "False", "Negado"),
     (17, "True", "Negado"),
 ])
-def test_classificar_caminhos_independentes(idade, membro, resultado_esperado):
+def test_ciclo(idade, membro, resultado_esperado):
     assert acesso(idade, membro) == resultado_esperado
 
 #Em C1 são necessarios dois testes pois ele analisa a condicao V ou F
-#Em CC são necessários 3 testes pois ele analisa cada condição individualmente 
+#Em CC são necessários 3 testes pois ele analisa cada condição individualmente
