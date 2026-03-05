@@ -1,5 +1,7 @@
 import pytest
+
 from Exercicio03.src.frete import calcular_frete
+from src.frete import calcular_frete
 from hypothesis import given
 import hypothesis.strategies as st
 

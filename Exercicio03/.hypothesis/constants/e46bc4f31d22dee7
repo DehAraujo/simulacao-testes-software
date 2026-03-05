@@ -1,0 +1,4 @@
+# file: C:\Users\Hideki\Documents\Simulacao-e-Teste-de-Software\Exercicio03\src\frete.py
+# hypothesis_version: 6.151.9
+
+[0.0, 10.0, 15.0, 25.0, 100, 200, 'Destino inválido', 'Peso inválido', 'internacional', 'mesma_regiao', 'outra_regiao']
