@@ -10,4 +10,7 @@ from src.classificar import classificar
 def test_classificar_caminhos_independentes(valor, valor_esperado):
     assert classificar(valor) == valor_esperado
 
-#São necessários 2 testes para cobrir C1 já que a função só possui dois ramos (confuso dúvida)
+#São necessários 3 caminhos de testes para cobrir todos os ramos de C1
+#CT1 (x > 100) cobre o primeiro ramo verdadeiro da condição e encerra a execução com retorno "Alto".
+#CT2 (x <= 100 e x > 50) cobre o segundo ramo falso da condicao x > 100 e o segundo ramo da condicção verdadeira x > 50 e encerra a execução com retorno "Medio"
+#CT3 (x <= 50) cobre o ramo falso da primeira e segunda condição, alcançando o final de retorno "Baixo"
