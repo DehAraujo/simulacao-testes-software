@@ -6,3 +6,7 @@ __pycache__/
 .coverage
 htmlcov/git rm -r --cached .
 .hypothesis/
+venv/
+__pycache__/
+.pytest_cache/
+mutants/
