@@ -1,0 +1,55 @@
+{
+    "tests_by_mangled_function_name": {
+        "operacoes.x_classificar": [
+            "test_operacoes.py::test_classificar[0-zero]",
+            "test_operacoes.py::test_classificar[-5-negativo]",
+            "test_operacoes.py::test_classificar[10-positivo]"
+        ],
+        "operacoes.x_fatorial": [
+            "test_operacoes.py::test_fatorial_negativo[-1]",
+            "test_operacoes.py::test_fatorial_negativo[-5]",
+            "test_operacoes.py::test_fatorial[0-1]",
+            "test_operacoes.py::test_fatorial[1-1]",
+            "test_operacoes.py::test_fatorial[5-120]"
+        ],
+        "operacoes.x_maior": [
+            "test_operacoes.py::test_maior[-3--1--1]",
+            "test_operacoes.py::test_maior[10-20-20]",
+            "test_operacoes.py::test_maior[5-2-5]"
+        ],
+        "operacoes.x_media": [
+            "test_operacoes.py::test_media[numeros0-2]",
+            "test_operacoes.py::test_media[numeros1-5]",
+            "test_operacoes.py::test_media_lista_vazia"
+        ],
+        "operacoes.x_primo": [
+            "test_operacoes.py::test_primo_negativo",
+            "test_operacoes.py::test_primo[9-False]",
+            "test_operacoes.py::test_primo[3-True]",
+            "test_operacoes.py::test_primo[4-False]",
+            "test_operacoes.py::test_primo[2-True]"
+        ]
+    },
+    "duration_by_test": {
+        "test_operacoes.py::test_classificar[-5-negativo]": 0.000717000999998163,
+        "test_operacoes.py::test_classificar[0-zero]": 0.0008024269999395983,
+        "test_operacoes.py::test_classificar[10-positivo]": 0.0008738320001384636,
+        "test_operacoes.py::test_fatorial[0-1]": 0.0007179800001040348,
+        "test_operacoes.py::test_fatorial[1-1]": 0.000836278999940987,
+        "test_operacoes.py::test_fatorial[5-120]": 0.0008264819999794781,
+        "test_operacoes.py::test_fatorial_negativo[-1]": 0.0007183109999004955,
+        "test_operacoes.py::test_fatorial_negativo[-5]": 0.0006202579999126101,
+        "test_operacoes.py::test_maior[5-2-5]": 0.0008174959999678322,
+        "test_operacoes.py::test_maior[10-20-20]": 0.0007050759999174261,
+        "test_operacoes.py::test_maior[-3--1--1]": 0.0008549950001679463,
+        "test_operacoes.py::test_media[numeros0-2]": 0.0007215170001018123,
+        "test_operacoes.py::test_media[numeros1-5]": 0.0005090100000870734,
+        "test_operacoes.py::test_media_lista_vazia": 0.000346054999909029,
+        "test_operacoes.py::test_primo[2-True]": 0.0005357490000506004,
+        "test_operacoes.py::test_primo[3-True]": 0.0005125980000002528,
+        "test_operacoes.py::test_primo[4-False]": 0.0006894570000213207,
+        "test_operacoes.py::test_primo[9-False]": 0.0007457720000729751,
+        "test_operacoes.py::test_primo_negativo": 0.00039147199993294635
+    },
+    "stats_time": 0.5853174040000001
+}
