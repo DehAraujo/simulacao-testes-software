@@ -1,5 +1,5 @@
 import pytest
-from src.teste_completo import analisar
+from Exercicio04.src.teste_completo import analisar
 
 # Teste completo cobrindo casos importantes
 @pytest.mark.parametrize("numero, resultado_esperado", [

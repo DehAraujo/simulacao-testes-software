@@ -1,5 +1,5 @@
 import pytest
-from src.teste_de_ciclo_aninhado import percorrer_matriz
+from Exercicio04.src.teste_de_ciclo_aninhado import percorrer_matriz
 
 #teste de ciclo aninhado
 @pytest.mark.parametrize("m, n", [

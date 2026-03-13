@@ -1,5 +1,5 @@
 import pytest
-from src.fluxo_dados import desconto
+from Exercicio04.src.fluxo_dados import desconto
 
 def test_desconto_vip():
     assert desconto(100, True) == 80

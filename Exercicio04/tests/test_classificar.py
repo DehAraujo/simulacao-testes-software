@@ -1,5 +1,5 @@
 import pytest
-from src.classificar import classificar
+from Exercicio04.src.classificar import classificar
 
 #Testes caminhos independentes C0 e cobertura de ramos C1
 @pytest.mark.parametrize("valor, valor_esperado", [

@@ -1,5 +1,5 @@
 import pytest
-from src.teste_ciclo import somar_ate
+from Exercicio04.src.teste_ciclo import somar_ate
 
 #teste de ciclo
 @pytest.mark.parametrize("n, resultado_esperado", [

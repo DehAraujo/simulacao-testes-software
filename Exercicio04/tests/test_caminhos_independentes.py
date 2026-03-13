@@ -1,5 +1,5 @@
 import pytest
-from src.caminhos_independentes import verificar
+from Exercicio04.src.caminhos_independentes import verificar
 
 #teste caminhos independentes C0
 @pytest.mark.parametrize ("valor, resultado_esperado" , [

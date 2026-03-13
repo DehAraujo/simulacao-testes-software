@@ -1,5 +1,5 @@
 import pytest
-from src.cobertura_condicao import acesso
+from Exercicio04.src.cobertura_condicao import acesso
 
 #Testes caminhos independentes C0, cobertura de ramos C1 e cobertura de condições CC
 @pytest.mark.parametrize("idade, membro, resultado_esperado", [
