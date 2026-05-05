@@ -1,8 +1,8 @@
-# 📚 Simulação e Teste de Software (CC8550)
+# Simulação e Teste de Software (CC8550)
 
 ---
 
-## 🎓 Informações Acadêmicas
+## Informações Acadêmicas
 
 - **Curso:** Ciência da Computação  
 - **Instituição:** Centro Universitário FEI  
@@ -12,7 +12,7 @@
 
 ---
 
-## 📘 Documentação (Wiki)
+## Documentação (Wiki)
 
 A documentação detalhada do projeto está disponível na Wiki do repositório:
 
@@ -22,16 +22,16 @@ A documentação detalhada do projeto está disponível na Wiki do repositório:
 
 Na Wiki você encontrará:
 
-- 📄 Descrição detalhada dos exercícios
-- 🧠 Explicação das técnicas aplicadas
-- 📊 Conceitos teóricos complementares
-- 🧪 Estratégias de teste utilizadas
+-  Descrição detalhada dos exercícios
+-  Explicação das técnicas aplicadas
+-  Conceitos teóricos complementares
+-  Estratégias de teste utilizadas
 
-## 📖 Sobre a Disciplina
+##  Sobre a Disciplina
 
 A disciplina aborda conceitos de **modelagem, simulação e técnicas formais de teste de software**, com foco na análise, validação e garantia de qualidade de sistemas computacionais.
 
-### 📚 Conteúdos Abordados
+###  Conteúdos Abordados
 
 - Modelagem e Simulação
 - Teoria de Filas
@@ -46,7 +46,7 @@ A disciplina aborda conceitos de **modelagem, simulação e técnicas formais de
 
 ---
 
-## 🎯 Objetivo do Repositório
+##  Objetivo do Repositório
 
 Aplicar técnicas formais de teste para garantir:
 
@@ -59,13 +59,13 @@ Este repositório contém exercícios práticos desenvolvidos com foco em boas p
 
 ---
 
-## 📂 Estrutura do Projeto
+##  Estrutura do Projeto
 
 <img width="779" height="375" alt="image" src="https://github.com/user-attachments/assets/b58564b0-47a7-4c1d-9eb2-b12d08f0e5a0" />
 
 ---
 
-## 📂 Exercícios
+##  Exercícios
 
 | Exercício | Tema | Status |
 |-----------|------|--------|
@@ -74,7 +74,7 @@ Este repositório contém exercícios práticos desenvolvidos com foco em boas p
 | 03 | Sistema de Cálculo de Frete (Particionamento, Valor Limite e Tabela de Decisão) | ✅ Concluído |
 ---
 
-## 🧪 Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 - Python  
 - pytest  
@@ -85,17 +85,17 @@ Este repositório contém exercícios práticos desenvolvidos com foco em boas p
 
 ---
 
-## 📊 Conceitos Aplicados
+##  Conceitos Aplicados
 
-- ✔ Princípios FIRST  
-- ✔ Padrão AAA (Arrange–Act–Assert)  
-- ✔ Teste de Unidade  
-- ✔ Verificação e Validação (V&V)  
-- ✔ Cobertura de Casos de Borda  
+-  Princípios FIRST  
+-  Padrão AAA (Arrange–Act–Assert)  
+-  Teste de Unidade  
+-  Verificação e Validação (V&V)  
+-  Cobertura de Casos de Borda  
 
 ---
 
-## ▶️ Como Executar os Testes
+##  Como Executar os Testes
 
 Na raiz do projeto, execute:
 
@@ -105,14 +105,14 @@ python -m pytest -v
 ```
 ---
 
-🚀 Autor
+ Autor
 
 Deise Adriana Silva Araújo<br>
 Ciência da Computação – FEI
 
 ---
 
-## 🤝 Contribuições
+##  Contribuições
 
 Sugestões, melhorias e feedbacks são sempre bem-vindos!  
 Sinta-se à vontade para abrir uma *issue* ou enviar um *pull request*.
