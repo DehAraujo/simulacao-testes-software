@@ -1,19 +1,19 @@
-# 🧪 Suíte de Testes para API REST
+# Suíte de Testes para API REST
 
-## 📌 API Escolhida
+##  API Escolhida
 
 **Nome:** JSONPlaceholder
 **Link:** https://jsonplaceholder.typicode.com/
 
 ---
 
-## 🎯 Justificativa da Escolha
+##  Justificativa da Escolha
 
 A API JSONPlaceholder foi escolhida por ser uma API pública, simples de usar e amplamente utilizada para testes. Ela permite realizar operações CRUD e validar diferentes cenários sem necessidade de autenticação complexa.
 
 ---
 
-## ⚙️ Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 * Python
 * requests
@@ -22,7 +22,7 @@ A API JSONPlaceholder foi escolhida por ser uma API pública, simples de usar e 
 
 ---
 
-## 📦 Instalação
+##  Instalação
 
 1. Clone o repositório:
 
@@ -47,7 +47,7 @@ pip install -r requirements.txt
 
 ---
 
-## ▶️ Execução dos Testes
+##  Execução dos Testes
 
 Para executar todos os testes:
 
@@ -63,7 +63,7 @@ pytest -v > resultado.txt
 
 ---
 
-## 🧪 Testes Implementados
+##  Testes Implementados
 
 A suíte de testes cobre os seguintes cenários:
 
@@ -116,7 +116,7 @@ A suíte de testes cobre os seguintes cenários:
 
 ---
 
-## 📁 Estrutura do Projeto
+##  Estrutura do Projeto
 
 ```
 Exercicio08/
@@ -127,7 +127,7 @@ Exercicio08/
 
 ---
 
-## ⚠️ Observações
+##  Observações
 
 * Não foram utilizadas ferramentas gráficas (Postman/Insomnia)
 * Todos os testes foram implementados em Python
@@ -136,7 +136,7 @@ Exercicio08/
 
 ---
 
-## 🚀 Conclusão
+##  Conclusão
 
 Esta suíte de testes garante a validação de funcionalidades essenciais de uma API REST, incluindo comportamento correto, tratamento de erros, desempenho e estrutura dos dados.
 
