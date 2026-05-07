@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.coverage
+htmlcov/git rm -r --cached .
+.hypothesis/
+venv/
+__pycache__/
+.pytest_cache/
+mutants/
